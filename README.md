@@ -14,4 +14,4 @@
 
 网站的界面设计简洁易用，不管你是首次访问，还是常客，都可以轻松找到你喜欢的视频。分类清晰，支持通过关键词搜索快速定位，确保你能高效找到最感兴趣的内容。同时，所有的视频内容都经过严格筛选，保证质量优良，满足不同用户的观看需求。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd19 ）</span>
